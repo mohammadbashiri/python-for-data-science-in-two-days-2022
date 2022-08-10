@@ -1,5 +1,7 @@
 ## Python for Data Science in two days
 
+Content for a two-day workshop to learn how to use Python for numerical analysis and visualization.
+
 ## Resources to dig deeper
 - **Matplotlib**:
     - [Scientific Visualization with Matplotlib](https://github.com/rougier/scientific-visualization-book)
